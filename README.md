@@ -1,9 +1,10 @@
 # Brainfuck For All (Assembly Version)
 ### Summary
-Cross-platform [brainfuck](https://www.muppetlabs.com/~breadbox/bf/) compiler, written in various assembly flavors, for various platforms.
+Cross-platform brainfuck compiler, written in various assembly flavors, for various platforms.
 
 ### Details
-To force myself to get into x86 and multi-platform assembly, I wanted to write a Brainfuck compiler... because why not!?
+To force myself to get into x86 and multi-platform assembly, I wanted to write a Brainfuck compiler... because why not!? 
+Look [here](https://www.muppetlabs.com/~breadbox/bf/) and [here](https://en.wikipedia.org/wiki/Brainfuck) if you ever have time to kill.
 
 ### Simple Roadmap
 1. Implement x86 compiler (Intel flavor)
